@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using TestGit.Models;
 
-//here is branch comment
 namespace TestGit.Controllers
 {
     public class HomeController : Controller
